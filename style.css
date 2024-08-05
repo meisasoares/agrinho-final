@@ -1,0 +1,12 @@
+:root {
+    --cor-principal: #CDEEFF;
+}
+
+body {
+    background-color: var(--cor-principal);
+    
+}
+
+
+
+  
